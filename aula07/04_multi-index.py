@@ -54,3 +54,4 @@ tabela_sumarizada.columns = ['Gás', 'Processo de maior emissão', 'Valor maior 
 tabela_sumarizada
 
 # %%
+ 
