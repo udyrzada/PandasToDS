@@ -74,3 +74,5 @@ series_idades.iloc[[-1]]
 # Como usamos [[-1]], o resultado continua sendo uma Series, e não apenas um valor isolado. 
 
 # Sem utilizar o 'iloc' estamos navegando pelos indices, utilizando o 'iloc' navegamos pelas linhas.
+
+# %%
