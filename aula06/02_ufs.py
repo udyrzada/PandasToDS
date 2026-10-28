@@ -74,6 +74,6 @@ def parece_bom(linha:pd.Series):
 
 # %%
 
-uf['Bom ou não'] = uf.apply(parece_bom, axis=1) # Axis = 1 --> linha | Axis = 0 --> Coluna
+uf['Bom ou não'] = uf.apply(parece_bom, axis=1) # Axis = 1 --> Linha | Axis = 0 --> Coluna
 uf
 # %%
